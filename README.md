@@ -8,3 +8,5 @@ On Ubuntu 16.04 LTS or up:
     pip3 install --user jupyterlab matplotlib
 
     jupyter lab
+
+Or [run online on Google Colab](https://colab.research.google.com/github/HEXcube/Algorithms-Lab)
